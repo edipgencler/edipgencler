@@ -28,6 +28,5 @@
 ## 📈 Graph
 ![Edip's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=edipgencler&hide_border=true&theme=redical)
 
-## ✍️ Latest Blog Posts
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=edipgencler&color=a6920f"/></p>
